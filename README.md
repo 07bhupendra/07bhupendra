@@ -1,3 +1,7 @@
+<div data-importer="image" align="center">
+  <img data-importer="image" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
 <h1 align="center">Hi 👋, I'm Bhupendra</h1>
 <h3 align="center">Full Stack Developer</h3>
 
